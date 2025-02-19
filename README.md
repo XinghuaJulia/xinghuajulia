@@ -15,7 +15,7 @@ It’s more than just an app—it’s a **movement**! Our goal? To make recyclin
  **📰 Sustainability News** – Stay informed with the latest eco-friendly updates and lifestyle tips!  
  **🐾 Virtual Pet Companion** – Recycle to your pet happy and healthy 😄  
 
- check it out [here](https://github.com/XinghuaJulia/Doesnt_Matter/blob/main/Doesnt_Matter_Poster.jpg)!
+ Check it out [here](https://github.com/XinghuaJulia/Doesnt_Matter/blob/main/Doesnt_Matter_Poster.jpg)!
 
 ---
 
@@ -42,8 +42,27 @@ Life’s messy, but your tasks don’t have to be! **Ai** is your personal task 
 
 ### 💜 **Selling you the best lie 💖**  
 **_Signing out now... 愛してる~_** ✨  
-Check it out [here](https://github.com/XinghuaJulia/ip/blob/master/docs/README.md)
+
+Check it out [here](https://github.com/XinghuaJulia/ip/blob/master/docs/README.md)!
 
 ---
 
+# 🐄 **FindingbrUdders** – Stay Connected, Stay Organised!  
+
+### **Struggling to keep track of connections in SoC?**   
+Tired of relying on **LinkedIn, Talent Connect, or NUSConfessIT** to find peers, mentors, or collaborators?  
+
+🔍 **FindingbrUdders** is the ultimate contact management and scheduling app designed **exclusively for School of Computing (SoC) students**. Easily track the countless connections made during your university journey—all from a simple yet powerful **Command Line Interface (CLI)**.  
+
+## 🌟 **Key Features**  
+
+📇 **Smart Contact Management** – Add, edit, and organise contacts effortlessly.  
+📅 **Meeting Scheduler** – Plan and track meetings to never miss an important catch-up.  
+🔍 **Quick Search & Filtering** – Find people by name, role, or major in seconds.  
+🗑 **Easy Contact & Meeting Management** – Modify, delete, or clear entries with simple commands.  
+💾 **Auto-Save & Persistent Data** – Never lose track of your network, even after closing the app!  
+
+💡 Whether you're looking for a **brUdder** (peer) to navigate assignments together or a **mUdder** (mentor) to guide your journey, **FindingbrUdders** ensures that every meaningful connection stays within reach! 🚀  
+
+ Check it out [here](https://github.com/XinghuaJulia/tp)!
 
